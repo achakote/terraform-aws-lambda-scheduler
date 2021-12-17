@@ -3,6 +3,6 @@ terraform {
 
   required_providers {
     archive = "~> 2.2.0"
-    aws     = "~> 3.69.0"
+    aws     = "~> 3.70.0"
   }
 }
